@@ -19,3 +19,4 @@ __pycache__/
 !/work/exports/
 /work/exports/*
 !/work/exports/.gitkeep
+.idea
